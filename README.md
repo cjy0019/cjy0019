@@ -6,7 +6,7 @@
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cjy0029&color=dark)](https://github.com/eungyeole/velog-readme-stats) -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjy0019&show_icons=true&theme=dark)
+![Jaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjy0019&show_icons=true&theme=radical)
 
 
 
