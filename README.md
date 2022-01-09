@@ -7,7 +7,7 @@
 
 ![Jaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjy0019&show_icons=true&theme=radical) -->
 
-<span style="fontSize : 20px">그만.</span>
+<span style="fontSize : 30px">그만.</span>
 
 
 <!--
