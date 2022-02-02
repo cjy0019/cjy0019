@@ -9,7 +9,7 @@
 
 
 <h2>Hi there I'm Jaeyeon FE DEVELOPER ✨</h2>
-<p style="font-size:25px">I love React and Vue.js 🔥</p>
+<h3>I love React and Vue.js 🔥</h3>
 
 ![Jaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjy0019&show_icons=true&theme=radical)
 
