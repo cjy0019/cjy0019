@@ -9,7 +9,7 @@
 
 
 <h2>Hi there I'm Jaeyeon FE DEVELOPER ✨</h2>
-<p>I love React, Vue.js</p>
+<p style="font-weight:bold; font-size:25px">I love React and Vue.js</p>
 
 
 
