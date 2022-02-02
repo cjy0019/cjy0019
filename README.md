@@ -8,7 +8,7 @@
 ![Jaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjy0019&show_icons=true&theme=radical) -->
 
 
-<p style="font-size:20px">Hi there I'm Jaeyeon FE DEVELOPER ✨</p>
+<h2>Hi there I'm Jaeyeon FE DEVELOPER ✨</h2>
 <p>I love React, Vue.js</p>
 
 
