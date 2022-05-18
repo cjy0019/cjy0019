@@ -8,8 +8,8 @@
  -->
 
 
-<h2>Hi there I'm Jaeyeon FE DEVELOPER ✨</h2>
-<h3>I love TS React and RN 🇰🇷</h3>
+<h2>Hi there I'm Jaeyeon FE DEVELOPER</h2>
+<h3>I love React and RN 🇰🇷</h3>
 
 <!-- ![Jaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjy0019&show_icons=true&theme=radical) -->
 
