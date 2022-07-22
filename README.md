@@ -8,8 +8,7 @@
  -->
 
 
-<h2>Hi there I'm Jaeyeon FE DEVELOPER</h2>
-<h3>I love React 🇰🇷</h3>
+<h2>Hi there I'm Jayden FE DEVELOPER</h2>
 
 <!-- ![Jaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjy0019&show_icons=true&theme=radical) -->
 
